@@ -17,15 +17,15 @@ Vector subspace: A subset of vector space is a subspace if and only if it is clo
 
 Null space: The set of homogenous solutions of the given linear equation is Null space of given Vector space 
 
-Span of a vector: Set of vectors that can be generated from the linear combination of vectors a1,a2,...an of some vector space.
+Span of a vector: Set of vectors that can be generated from the linear combination of vectors a1,a2,...an of a vector space.
 
-Basis of a vector:  
+If any set of vector {v1,v2} span a subspace if all the vectors in vector space S is expressed as a linear combination of the vectors v1,v2.
 
-Rank 
+Basis of a vector:  Basis of a vector is the collection of independent vectors which spans the space. For two vector {v1 ,v2} can be called as a basis if all the vector in vector space S is expressed as a linear combination of the vectors v1,v2 where v1,v2 are linearly independent.
 
-Dimension    
+Rank: The rank of an n x m matrix is the dimension of the span of its row vectors in Rn. The span of the rows has dimension equal to the number of pivots column in RRE for of matrix of vectors. 
 
-Linearly dependent or independent: Two vectors are independent if one can be expressed as non zero linear combination of the others.I.e if there is non trival linear combination of two vector exist then they are linearly dependent 
+Linearly dependent or independent: Two vectors are independent if one can be expressed as non zero linear combination of the others.i.e if there is non trival linear combination of two vector exist then they are linearly dependent 
 
 
 
