@@ -1,4 +1,6 @@
-## Linear_algebra Day1 
+# Linear_algebra Day1 
+
+-[Vector and spcae] 
 According to ....  linear algebra deals with the finding the solution of linear equations which heavely involve vector space, matrix, linear transformation and so on.
 
 #Definations
@@ -28,6 +30,30 @@ Basis of a vector is the collection of independent vectors which spans the space
 The rank of an n x m matrix is the dimension of the span of its row vectors in Rn. The span of the rows has dimension equal to the number of pivots column in RRE for of matrix of vectors. 
 
 #Linearly dependent or independent: Two vectors are independent if one can be expressed as non zero linear combination of the others.i.e if there is non trival linear combination of two vector exist then they are linearly dependent 
+
+
+##Day_2 
+
+-[Optimization]
+
+Continous Optimization: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
