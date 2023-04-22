@@ -1,6 +1,7 @@
 # Linear_algebra Day1 
 
--[Vector and spcae] 
+- [# Vector and spcae] 
+
 According to ....  linear algebra deals with the finding the solution of linear equations which heavely involve vector space, matrix, linear transformation and so on.
 
 #Definations
@@ -34,9 +35,27 @@ The rank of an n x m matrix is the dimension of the span of its row vectors in R
 
 ## Day_2 
 
-- [Optimization]
+- [# Optimization]
 
-Continous Optimization: 
+* [Continous Optimization:] 
+
+ Stochastic Descent: 
+  Suppose loss function = summation of Fi (individual loss of the data points)
+  formula of Stocastic gradient descent
+ ![image](https://user-images.githubusercontent.com/35992124/233795534-37886ecd-38e1-415d-a5a2-24b80ca11a78.png)
+
+Stocastic gradient Descent with momentum 
+![image](https://user-images.githubusercontent.com/35992124/233795654-8fa22efd-1048-4955-a2c7-1a147426c090.png)
+ 
+ theta is paramenter 
+ delta theta sub i is change in vector
+ gamma is step size 
+ theta sub i is a surely a vector 
+ 
+ Stochastic gardaient descent can be help ful to find out the global minimum or maximum from local minimum 
+ The saaple we choose to find the loss should always be random
+ 
+
 
 
 
