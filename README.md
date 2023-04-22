@@ -32,9 +32,9 @@ The rank of an n x m matrix is the dimension of the span of its row vectors in R
 #Linearly dependent or independent: Two vectors are independent if one can be expressed as non zero linear combination of the others.i.e if there is non trival linear combination of two vector exist then they are linearly dependent 
 
 
-##Day_2 
+## Day_2 
 
--[Optimization]
+- [Optimization]
 
 Continous Optimization: 
 
